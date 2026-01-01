@@ -1,0 +1,5 @@
+{
+  "name": "DevSandbox",
+  "description": "A comprehensive developer sandbox environment manager with API key management, webhook testing, and AI data generation.",
+  "requestFramePermissions": []
+}
